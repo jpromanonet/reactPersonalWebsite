@@ -24,6 +24,11 @@ function Mobile({ isOpen, setIsOpen }) {
           </a>
         </div>
         <div className="mobile-option">
+          <a href="https://jpromano.net/blog/" target="_blank">
+            <i class="fi-rr-book option-icon"></i>Blog
+          </a>
+        </div>
+        <div className="mobile-option">
           <a href="#contact">
             <i class="fi-rr-user option-icon"></i>Contact
           </a>

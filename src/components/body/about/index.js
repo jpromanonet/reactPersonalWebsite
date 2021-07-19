@@ -6,7 +6,7 @@ function About() {
     <div className="about">
       <div className="about-top">
         <div className="about-info">
-          Hello There 👋 and welcome!
+          Hello there 👋 and welcome!
           <br />
           <br />
           I'm a Full Stack Developer and a DevOps Engineer.

@@ -1,27 +1,22 @@
 export const SocialData = [
   {
+    platform: "Medium",
+    icon: require("../assets/icons/medium.png").default,
+    link: "https://www.linkedin.com/in/jupromano/",
+  },
+  {
     platform: "Instagram",
     icon: require("../assets/icons/instagram.png").default,
-    link: "www.instagram.com/aple",
+    link: "https://www.instagram.com/juanp.raven",
   },
   {
     platform: "Github",
     icon: require("../assets/icons/github.png").default,
-    link: "www.github.com/aple",
+    link: "https://www.github.com/jpromanonet",
   },
   {
     platform: "Linkedin",
     icon: require("../assets/icons/linkedin.png").default,
-    link: "www.github.com/aple",
-  },
-  {
-    platform: "Facebook",
-    icon: require("../assets/icons/facebook.png").default,
-    link: "www.facebook.com/aple",
-  },
-  {
-    platform: "Twitter",
-    icon: require("../assets/icons/twitter.png").default,
-    link: "www.twitter.com/aple",
+    link: "https://www.linkedin.com/in/jupromano/",
   },
 ];
