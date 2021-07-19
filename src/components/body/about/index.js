@@ -6,8 +6,10 @@ function About() {
     <div className="about">
       <div className="about-top">
         <div className="about-info">
-          Hello There 👋, I am <br />
-          <span className="info-name">Juan</span><br /> I'm a Full Stack Developer and a DevOps Engineer.
+          Hello There 👋 and welcome!
+          <br />
+          <br />
+          I'm a Full Stack Developer and a DevOps Engineer.
         </div>
         <div className="about-photo">
           <img
