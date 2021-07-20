@@ -15,7 +15,7 @@ export const WorkData = [
     dateEnd: " 04/2021",
     companyLogo:
       "https://iconape.com/wp-content/png_logo_vector/facebook-f-logo-2019.png",
-    work: "Worken on Unit testing and creating the largest database efficiently. With over 100 people under me, made it work really well.",
+    work: "Infrastructure as code with Python, Ansible, Puppet and Chef in Azure, deploy and implementation of CI/CD with Gitops as paradigm over Azure for clients like EY, design and development of Docker containers and Kubernetes.",
   },
   {
     company: "El Cronista Comercial",
