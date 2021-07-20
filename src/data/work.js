@@ -6,7 +6,7 @@ export const WorkData = [
     dateEnd: " Present",
     companyLogo:
       "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1200px-Google_%22G%22_Logo.svg.png",
-    work: "Worken on Unit testing and creating the largest database efficiently. With over 100 people under me, made it work really well.",
+    work: "Software solutions Development with Python and PHP, architecture design, good practices implementation.",
   },
   {
     company: "Globant",
