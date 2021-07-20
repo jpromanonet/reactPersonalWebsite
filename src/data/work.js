@@ -26,4 +26,13 @@ export const WorkData = [
       "https://iconape.com/wp-content/png_logo_vector/facebook-f-logo-2019.png",
     work: "Linux servers implementation and ITIL servicies, SQL development of store procedures and report, financial systems analytics, automation of business workflows, test and software development for the company",
   },
+  {
+    company: "Healthy SA",
+    designation: "Full Stack Developer",
+    dateJoining: "09/2017",
+    dateEnd: "09/2018",
+    companyLogo:
+      "https://iconape.com/wp-content/png_logo_vector/facebook-f-logo-2019.png",
+    work: "IT support level 2 and sometimes 3, internal software development and virtualization platforms administration like VMWare and ProxMox, linux servers, etc.",
+  },
 ];
