@@ -24,6 +24,6 @@ export const WorkData = [
     dateEnd: "09/2020",
     companyLogo:
       "https://iconape.com/wp-content/png_logo_vector/facebook-f-logo-2019.png",
-    work: "Worken on Unit testing and creating the largest database efficiently. With over 100 people under me, made it work really well.",
+    work: "Linux servers implementation and ITIL servicies, SQL development of store procedures and report, financial systems analytics, automation of business workflows, test and software development for the company",
   },
 ];
