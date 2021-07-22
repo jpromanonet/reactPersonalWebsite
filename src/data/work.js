@@ -44,4 +44,13 @@ export const WorkData = [
       "https://iconape.com/wp-content/png_logo_vector/facebook-f-logo-2019.png",
     work: "IT support level 2 and sometimes 3, internal software development and virtualization platforms administration like VMWare and ProxMox, linux servers, etc.",
   },
+  {
+    company: "AG S.A",
+    designation: "Full Stack Developer",
+    dateJoining: "11/2012 ",
+    dateEnd: " 12/2015",
+    companyLogo:
+      "https://iconape.com/wp-content/png_logo_vector/facebook-f-logo-2019.png",
+    work: "IT support level 2 and sometimes 3, internal software development and virtualization platforms administration like VMWare and ProxMox, linux servers, etc.",
+  },
 ];
