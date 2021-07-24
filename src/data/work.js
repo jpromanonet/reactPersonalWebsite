@@ -25,8 +25,6 @@ export const WorkData = [
     designation: "Full Stack Developer",
     dateJoining: "09/2017 ",
     dateEnd: " 09/2018",
-    companyLogo:
-      "https://iconape.com/wp-content/png_logo_vector/facebook-f-logo-2019.png",
     work: "IT support level 2 and sometimes 3, internal software development and virtualization platforms administration like VMWare and ProxMox, linux servers, etc.",
   },
   {
@@ -34,8 +32,6 @@ export const WorkData = [
     designation: "Full Stack Developer",
     dateJoining: "11/2015 ",
     dateEnd: " 09/2017",
-    companyLogo:
-      "https://iconape.com/wp-content/png_logo_vector/facebook-f-logo-2019.png",
     work: "IT support level 2 and sometimes 3, internal software development and virtualization platforms administration like VMWare and ProxMox, linux servers, etc.",
   },
   {
@@ -43,8 +39,6 @@ export const WorkData = [
     designation: "Full Stack Developer",
     dateJoining: "11/2012 ",
     dateEnd: " 12/2015",
-    companyLogo:
-      "https://iconape.com/wp-content/png_logo_vector/facebook-f-logo-2019.png",
     work: "IT support level 2 and sometimes 3, internal software development and virtualization platforms administration like VMWare and ProxMox, linux servers, etc.",
   },
 ];
