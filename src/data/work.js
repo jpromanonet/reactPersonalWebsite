@@ -4,7 +4,6 @@ export const WorkData = [
     designation: "Software Engineer",
     dateJoining: "11/2019 ",
     dateEnd: " Present",
-    companyLogo:
       "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1200px-Google_%22G%22_Logo.svg.png",
     work: "Software solutions Development with Python and PHP, architecture design, good practices implementation.",
   },
