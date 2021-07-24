@@ -12,8 +12,6 @@ export const WorkData = [
     designation: "DevOps Engineer",
     dateJoining: "09/2020 ",
     dateEnd: " 04/2021",
-    companyLogo:
-      "https://iconape.com/wp-content/png_logo_vector/facebook-f-logo-2019.png",
     work: "Infrastructure as code with Python, Ansible, Puppet and Chef in Azure, deploy and implementation of CI/CD with Gitops as paradigm over Azure for clients like EY, design and development of Docker containers and Kubernetes.",
   },
   {
