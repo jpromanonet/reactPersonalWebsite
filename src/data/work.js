@@ -4,7 +4,6 @@ export const WorkData = [
     designation: "Software Engineer",
     dateJoining: "11/2019 ",
     dateEnd: " Present",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1200px-Google_%22G%22_Logo.svg.png",
     work: "Software solutions Development with Python and PHP, architecture design, good practices implementation.",
   },
   {
@@ -19,8 +18,6 @@ export const WorkData = [
     designation: "Full Stack Developer",
     dateJoining: "09/2018 ",
     dateEnd: " 09/2020",
-    companyLogo:
-      "https://iconape.com/wp-content/png_logo_vector/facebook-f-logo-2019.png",
     work: "Linux servers implementation and ITIL servicies, SQL development of store procedures and report, financial systems analytics, automation of business workflows, test and software development for the company",
   },
   {
