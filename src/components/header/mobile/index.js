@@ -8,11 +8,6 @@ function Mobile({ isOpen, setIsOpen }) {
       </div>
       <div className="mobile-options">
         <div className="mobile-option">
-          <a href="#projects">
-            <i class="fi-rr-pencil option-icon"></i>Education
-          </a>
-        </div>
-        <div className="mobile-option">
           <a href="#skills">
             <i class="fi-rr-laptop option-icon"></i>Skills
           </a>
@@ -21,6 +16,11 @@ function Mobile({ isOpen, setIsOpen }) {
           <a href="#work">
             {" "}
             <i class="fi-rr-briefcase option-icon"></i>Work
+          </a>
+        </div>
+        <div className="mobile-option">
+          <a href="#projects">
+            <i class="fi-rr-pencil option-icon"></i>Education
           </a>
         </div>
         <div className="mobile-option">
