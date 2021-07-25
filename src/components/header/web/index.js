@@ -5,7 +5,7 @@ function Web() {
     <div className="web">
       <div className="web-option">
         <a href="#projects">
-          <i class="fi-rr-edit-alt option-icon"></i>Projects
+          <i class="fi-rr-edit-alt option-icon"></i>Education
         </a>
       </div>
       <div className="web-option">
