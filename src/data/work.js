@@ -39,6 +39,6 @@ export const WorkData = [
     designation: "Full Stack Developer",
     dateJoining: "11/2012 ",
     dateEnd: " 12/2015",
-    work: "IT support level 2 and sometimes 3, internal software development and virtualization platforms administration like VMWare and ProxMox, linux servers, etc.",
+    work: "Development of an ERP and the company Intranet, using PHP, ASP, MySQL, MS-SQL, as well as a MRP with NodeJS taking data from PLC's controller using assembler and dumping them into MS-SQL entries.",
   },
 ];
