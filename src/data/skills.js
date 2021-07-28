@@ -96,6 +96,10 @@ export const SkillsData = [
         name: "Redis",
         icon: <i class="devicon-redis-plain colored"></i>,
       },
+      {
+        name: "Graph QL",
+        icon: <i class="devicon-graphql-plain colored"></i>,
+      },
     ],
   },
   {
@@ -116,6 +120,14 @@ export const SkillsData = [
       {
         name: "Linux",
         icon: <i class="devicon-linux-plain colored"></i>,
+      },
+      {
+        name: "Win Server",
+        icon: <i class="devicon-windows8-plain colored"></i>,
+      },
+      {
+        name: "AWS",
+        icon: <i class="devicon-amazonwebservices-plain colored"></i>,
       },
     ],
   },
