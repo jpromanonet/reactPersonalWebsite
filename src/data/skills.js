@@ -129,6 +129,14 @@ export const SkillsData = [
         name: "AWS",
         icon: <i class="devicon-amazonwebservices-plain colored"></i>,
       },
+      {
+        name: "Apache",
+        icon: <i class="devicon-apache-plain colored"></i>,
+      },
+      {
+        name: "Composer",
+        icon: <i class="devicon-composer-plain colored"></i>,
+      },
     ],
   },
 ];
