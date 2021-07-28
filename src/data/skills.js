@@ -77,4 +77,14 @@ export const SkillsData = [
       },
     ],
   },
+  {
+    type: "Tools",
+    list: [
+      {
+        name: "git",
+        icon: <i class="devicon-git-plain colored"></i>,
+      },
+      
+    ],
+  },
 ];
