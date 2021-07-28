@@ -81,12 +81,12 @@ export const SkillsData = [
         icon: <i class="devicon-mysql-plain colored"></i>,
       },
       {
-        name: "Docker",
+        name: "MS-SQL",
         icon: <i class="devicon-microsoftsqlserver-plain colored"></i>,
       },
       {
-        name: "Bash",
-        icon: <i class="devicon-bash-plain colored"></i>,
+        name: "Postgresql",
+        icon: <i class="devicon-postgresql-plain colored"></i>,
       },
       {
         name: "Linux",
