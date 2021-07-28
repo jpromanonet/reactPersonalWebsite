@@ -31,6 +31,14 @@ export const SkillsData = [
         icon: <i class="devicon-php-plain colored"></i>,
       },
       {
+        name: "Laragon",
+        icon: <i class="devicon-laragon-plain colored"></i>,
+      },
+      {
+        name: "Code Igniter",
+        icon: <i class="devicon-codeigniter-plain colored"></i>,
+      },
+      {
         name: "Python",
         icon: <i class="devicon-python-plain colored"></i>,
       },
@@ -130,6 +138,14 @@ export const SkillsData = [
       {
         name: "Composer",
         icon: <i class="devicon-composer-plain colored"></i>,
+      },
+      {
+        name: "Drupal",
+        icon: <i class="devicon-drupal-plain colored"></i>,
+      },
+      {
+        name: "Codepen",
+        icon: <i class="devicon-codepen-plain colored"></i>,
       },
     ],
   },
