@@ -15,8 +15,8 @@ export const SkillsData = [
         icon: <i class="devicon-javascript-plain colored"></i>,
       },
       {
-        name: "Typescript",
-        icon: <i class="devicon-typescript-plain colored"></i>,
+        name: "VueJS",
+        icon: <i class="devicon-vuejs-plain colored"></i>,
       },
       {
         name: "CSS3",
@@ -81,10 +81,13 @@ export const SkillsData = [
     type: "Tools",
     list: [
       {
-        name: "git",
+        name: "Git",
         icon: <i class="devicon-git-plain colored"></i>,
       },
-      
+      {
+        name: "Docker",
+        icon: <i class="devicon-docker-plain colored"></i>,
+      },
     ],
   },
 ];
