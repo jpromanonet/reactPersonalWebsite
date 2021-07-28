@@ -42,6 +42,26 @@ export const SkillsData = [
         name: "Matlab",
         icon: <i class="devicon-matlab-plain colored"></i>,
       },
+      {
+        name: "Perl",
+        icon: <i class="devicon-perl-plain colored"></i>,
+      },
+      {
+        name: "R",
+        icon: <i class="devicon-r-plain colored"></i>,
+      },
+      {
+        name: "Golang",
+        icon: <i class="devicon-go-plain colored"></i>,
+      },
+      {
+        name: "Ruby",
+        icon: <i class="devicon-ruby-plain colored"></i>,
+      },
+      {
+        name: "Django",
+        icon: <i class="devicon-django-plain colored"></i>,
+      },
     ],
   },
   {
@@ -84,6 +104,10 @@ export const SkillsData = [
         icon: <i class="devicon-amazonwebservices-plain colored"></i>,
       },
       {
+        name: "heroku",
+        icon: <i class="devicon-heroku-plain colored"></i>,
+      },
+      {
         name: "Apache",
         icon: <i class="devicon-apache-plain colored"></i>,
       },
@@ -107,6 +131,10 @@ export const SkillsData = [
       {
         name: "VueJS",
         icon: <i class="devicon-vuejs-plain colored"></i>,
+      },
+      {
+        name: "Jquery",
+        icon: <i class="devicon-jquery-plain colored"></i>,
       },
       {
         name: "CSS3",
