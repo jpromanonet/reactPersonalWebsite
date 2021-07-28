@@ -67,6 +67,10 @@ export const SkillsData = [
         name: "NodeJS",
         icon: <i class="devicon-nodejs-plain colored"></i>,
       },
+      {
+        name: "Matlab",
+        icon: <i class="devicon-matlab-plain colored"></i>,
+      },
     ],
   },
   {
