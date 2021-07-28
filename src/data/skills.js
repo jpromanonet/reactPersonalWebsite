@@ -7,10 +7,6 @@ export const SkillsData = [
         icon: <i class="devicon-react-original colored"></i>,
       },
       {
-        name: "NextJS",
-        icon: <i class="devicon-nextjs-original colored"></i>,
-      },
-      {
         name: "Javascript",
         icon: <i class="devicon-javascript-plain colored"></i>,
       },
@@ -71,10 +67,6 @@ export const SkillsData = [
         name: "NodeJS",
         icon: <i class="devicon-nodejs-plain colored"></i>,
       },
-      {
-        name: "Bash",
-        icon: <i class="devicon-bash-plain colored"></i>,
-      },
     ],
   },
   {
@@ -87,6 +79,14 @@ export const SkillsData = [
       {
         name: "Docker",
         icon: <i class="devicon-docker-plain colored"></i>,
+      },
+      {
+        name: "Bash",
+        icon: <i class="devicon-bash-plain colored"></i>,
+      },
+      {
+        name: "Linux",
+        icon: <i class="devicon-linux-plain colored"></i>,
       },
     ],
   },
