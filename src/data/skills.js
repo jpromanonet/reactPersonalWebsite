@@ -62,6 +62,14 @@ export const SkillsData = [
         name: "Django",
         icon: <i class="devicon-django-plain colored"></i>,
       },
+      {
+        name: "Flask",
+        icon: <i class="devicon-flask-plain colored"></i>,
+      },
+      {
+        name: "Elixir",
+        icon: <i class="devicon-elixir-plain colored"></i>,
+      },
     ],
   },
   {
