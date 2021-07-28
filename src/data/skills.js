@@ -70,6 +70,14 @@ export const SkillsData = [
         name: "Elixir",
         icon: <i class="devicon-elixir-plain colored"></i>,
       },
+      {
+        name: "Erlang",
+        icon: <i class="devicon-erlang-plain colored"></i>,
+      },
+      {
+        name: "Clojure",
+        icon: <i class="devicon-clojure-plain colored"></i>,
+      },
     ],
   },
   {
