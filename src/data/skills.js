@@ -45,6 +45,55 @@ export const SkillsData = [
     ],
   },
   {
+    type: "Tools",
+    list: [
+      {
+        name: "Git",
+        icon: <i class="devicon-git-plain colored"></i>,
+      },
+      {
+        name: "Github",
+        icon: <i class="devicon-github-plain colored"></i>,
+      },
+      {
+        name: "Gitlab",
+        icon: <i class="devicon-gitlab-plain colored"></i>,
+      },
+      {
+        name: "Docker",
+        icon: <i class="devicon-docker-plain colored"></i>,
+      },
+      {
+        name: "Kubernetes",
+        icon: <i class="devicon-kubernetes-plain colored"></i>,
+      },
+      {
+        name: "Bash",
+        icon: <i class="devicon-bash-plain colored"></i>,
+      },
+      {
+        name: "Linux",
+        icon: <i class="devicon-linux-plain colored"></i>,
+      },
+      {
+        name: "Win Server",
+        icon: <i class="devicon-windows8-plain colored"></i>,
+      },
+      {
+        name: "AWS",
+        icon: <i class="devicon-amazonwebservices-plain colored"></i>,
+      },
+      {
+        name: "Apache",
+        icon: <i class="devicon-apache-plain colored"></i>,
+      },
+      {
+        name: "Composer",
+        icon: <i class="devicon-composer-plain colored"></i>,
+      },
+    ],
+  },
+  {
     type: "Frontend",
     list: [
       {
@@ -99,43 +148,6 @@ export const SkillsData = [
       {
         name: "Graph QL",
         icon: <i class="devicon-graphql-plain colored"></i>,
-      },
-    ],
-  },
-  {
-    type: "Tools",
-    list: [
-      {
-        name: "Git",
-        icon: <i class="devicon-git-plain colored"></i>,
-      },
-      {
-        name: "Docker",
-        icon: <i class="devicon-docker-plain colored"></i>,
-      },
-      {
-        name: "Bash",
-        icon: <i class="devicon-bash-plain colored"></i>,
-      },
-      {
-        name: "Linux",
-        icon: <i class="devicon-linux-plain colored"></i>,
-      },
-      {
-        name: "Win Server",
-        icon: <i class="devicon-windows8-plain colored"></i>,
-      },
-      {
-        name: "AWS",
-        icon: <i class="devicon-amazonwebservices-plain colored"></i>,
-      },
-      {
-        name: "Apache",
-        icon: <i class="devicon-apache-plain colored"></i>,
-      },
-      {
-        name: "Composer",
-        icon: <i class="devicon-composer-plain colored"></i>,
       },
     ],
   },
