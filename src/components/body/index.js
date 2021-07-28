@@ -1,7 +1,7 @@
 import React from "react";
 import "./body.css";
 import About from "./about/index";
-import Projects from "./projects/index";
+// import Projects from "./projects/index";
 import Skills from "./skills/index";
 import Work from "./work/index";
 import Contact from "./contact/index";
