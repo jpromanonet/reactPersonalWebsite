@@ -26,6 +26,10 @@ export const SkillsData = [
         name: "HTML5",
         icon: <i class="devicon-html5-plain colored"></i>,
       },
+      {
+        name: "Bootstrap",
+        icon: <i class="devicon-bootstrap-plain colored"></i>,
+      },
     ],
   },
   {
@@ -50,6 +54,10 @@ export const SkillsData = [
       {
         name: ".Net Core",
         icon: <i class="devicon-dotnetcore-plain colored"></i>,
+      },
+      {
+        name: ".Net",
+        icon: <i class="devicon-dot-net-plain colored"></i>,
       },
       {
         name: "PHP",
