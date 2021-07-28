@@ -92,6 +92,10 @@ export const SkillsData = [
         name: "Mongo DB",
         icon: <i class="devicon-mongodb-plain colored"></i>,
       },
+      {
+        name: "Redis",
+        icon: <i class="devicon-redis-plain colored"></i>,
+      },
     ],
   },
   {
