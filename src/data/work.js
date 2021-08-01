@@ -4,7 +4,7 @@ export const WorkData = [
     designation: "Technical Leader",
     dateJoining: "11/2019 ",
     dateEnd: " Present",
-    work: "Software solutions Development with Python and PHP, architecture design, good practices implementation.",
+    work: "Software solutions Development with Python and PHP, architecture design and good practices implementation.",
   },
   {
     company: "Teclab Institute",
