@@ -7,6 +7,13 @@ export const WorkData = [
     work: "Software solutions Development with Python and PHP, architecture design, good practices implementation.",
   },
   {
+    company: "Teclab Institute",
+    designation: "Expert Tutor",
+    dateJoining: "06/2021 ",
+    dateEnd: " 08/2021",
+    work: "Teaching two classes (Web Development and Mobile Apps Development) for a period of two months as a substitute.",
+  },
+  {
     company: "Globant",
     designation: "DevOps Engineer",
     dateJoining: "09/2020 ",
