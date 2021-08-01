@@ -19,10 +19,6 @@ export const SkillsData = [
         icon: <i class="devicon-java-plain colored"></i>,
       },
       {
-        name: ".Net Core",
-        icon: <i class="devicon-dotnetcore-plain colored"></i>,
-      },
-      {
         name: "PHP",
         icon: <i class="devicon-php-plain colored"></i>,
       },
