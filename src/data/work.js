@@ -1,7 +1,7 @@
 export const WorkData = [
   {
     company: "Matelab",
-    designation: "Software Engineer",
+    designation: "Technical Leader",
     dateJoining: "11/2019 ",
     dateEnd: " Present",
     work: "Software solutions Development with Python and PHP, architecture design, good practices implementation.",
