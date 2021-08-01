@@ -23,10 +23,6 @@ export const SkillsData = [
         icon: <i class="devicon-php-plain colored"></i>,
       },
       {
-        name: "Laravel",
-        icon: <i class="devicon-laravel-plain colored"></i>,
-      },
-      {
         name: "Code Igniter",
         icon: <i class="devicon-codeigniter-plain colored"></i>,
       },
