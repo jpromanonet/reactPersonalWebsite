@@ -35,44 +35,8 @@ export const SkillsData = [
         icon: <i class="devicon-nodejs-plain colored"></i>,
       },
       {
-        name: "Matlab",
-        icon: <i class="devicon-matlab-plain colored"></i>,
-      },
-      {
-        name: "Perl",
-        icon: <i class="devicon-perl-plain colored"></i>,
-      },
-      {
         name: "R",
         icon: <i class="devicon-r-plain colored"></i>,
-      },
-      {
-        name: "Golang",
-        icon: <i class="devicon-go-plain colored"></i>,
-      },
-      {
-        name: "Ruby",
-        icon: <i class="devicon-ruby-plain colored"></i>,
-      },
-      {
-        name: "Django",
-        icon: <i class="devicon-django-plain colored"></i>,
-      },
-      {
-        name: "Flask",
-        icon: <i class="devicon-flask-plain colored"></i>,
-      },
-      {
-        name: "Elixir",
-        icon: <i class="devicon-elixir-plain colored"></i>,
-      },
-      {
-        name: "Erlang",
-        icon: <i class="devicon-erlang-plain colored"></i>,
-      },
-      {
-        name: "Clojure",
-        icon: <i class="devicon-clojure-plain colored"></i>,
       },
     ],
   },
