@@ -2,7 +2,7 @@ export const SocialData = [
   {
     platform: "Medium",
     icon: require("../assets/icons/medium.png").default,
-    link: "https://www.linkedin.com/in/jupromano/",
+    link: "https://thedeveloperchronicles.medium.com/",
   },
   {
     platform: "Instagram",
