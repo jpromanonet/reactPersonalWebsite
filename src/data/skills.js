@@ -48,20 +48,8 @@ export const SkillsData = [
         icon: <i class="devicon-git-plain colored"></i>,
       },
       {
-        name: "Github",
-        icon: <i class="devicon-github-plain colored"></i>,
-      },
-      {
-        name: "Gitlab",
-        icon: <i class="devicon-gitlab-plain colored"></i>,
-      },
-      {
         name: "Docker",
         icon: <i class="devicon-docker-plain colored"></i>,
-      },
-      {
-        name: "Kubernetes",
-        icon: <i class="devicon-kubernetes-plain colored"></i>,
       },
       {
         name: "Bash",
@@ -86,18 +74,6 @@ export const SkillsData = [
       {
         name: "Apache",
         icon: <i class="devicon-apache-plain colored"></i>,
-      },
-      {
-        name: "Composer",
-        icon: <i class="devicon-composer-plain colored"></i>,
-      },
-      {
-        name: "Drupal",
-        icon: <i class="devicon-drupal-plain colored"></i>,
-      },
-      {
-        name: "Codepen",
-        icon: <i class="devicon-codepen-plain colored"></i>,
       },
     ],
   },
