@@ -1,5 +1,10 @@
 export const SocialData = [
   {
+    platform: "Goodreads",
+    icon: require("../assets/icons/goodreads.png").default,
+    link: "https://www.goodreads.com/jpromano/",
+  },
+  {
     platform: "Medium",
     icon: require("../assets/icons/medium.png").default,
     link: "https://thedeveloperchronicles.medium.com/",
@@ -18,10 +23,5 @@ export const SocialData = [
     platform: "Linkedin",
     icon: require("../assets/icons/linkedin.png").default,
     link: "https://www.linkedin.com/in/jupromano/?locale=en_US",
-  },
-  {
-    platform: "Goodreads",
-    icon: require("../assets/icons/goodreads.png").default,
-    link: "https://www.goodreads.com/jpromano/",
   },
 ];
