@@ -26,8 +26,8 @@ export const SocialData = [
   },
   {
     platform: "YouTube",
-    icon: require("../assets/icons/linkedin.png").default,
-    link: "https://www.linkedin.com/in/jupromano/?locale=en_US",
+    icon: require("../assets/icons/youtube.png").default,
+    link: "https://www.youtube.com/channel/UCNizhFb4M6sT5UqOVOAUq1w",
   },
   {
     platform: "Linktree",
