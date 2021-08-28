@@ -25,13 +25,13 @@ export const SocialData = [
     link: "https://www.linkedin.com/in/jupromano/?locale=en_US",
   },
   {
-    platform: "Behance",
-    icon: require("../assets/icons/behance.png").default,
-    link: "https://www.behance.net/jpromano",
-  },
-  {
     platform: "Linktree",
     icon: require("../assets/icons/linktree.png").default,
     link: "https://linktr.ee/jpromanonet",
+  },
+  {
+    platform: "Behance",
+    icon: require("../assets/icons/behance.png").default,
+    link: "https://www.behance.net/jpromano",
   },
 ];
