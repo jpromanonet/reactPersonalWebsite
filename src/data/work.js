@@ -14,6 +14,13 @@ export const WorkData = [
     work: "Automation, development and teaching of the Full Stack Developer Bootcamp (HTML, CSS, JS, Node, React, Mongo and SQL).",
   },
   {
+    company: "Guayerd",
+    designation: "Front End Mentor",
+    dateJoining: "09/2021 ",
+    dateEnd: " Present",
+    work: "Teaching Front End development with HTML, CSS, Javascript and React JS.",
+  },
+  {
     company: "Matelab",
     designation: "Technical Leader",
     dateJoining: "11/2019 ",
