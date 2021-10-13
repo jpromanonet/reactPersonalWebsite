@@ -1,9 +1,23 @@
 export const WorkData = [
   {
+    company: "The Bit",
+    designation: "Technical Leader",
+    dateJoining: "10/2021 ",
+    dateEnd: " Present",
+    work: "Project management and client relationship development, also I develop software solutions with PHP, React, VueJS, Mongo and Node using Scrum.",
+  },
+  {
+    company: "Nucba",
+    designation: "Technical Leader & Full Stack Mentor",
+    dateJoining: "10/2021 ",
+    dateEnd: " Present",
+    work: "Automation, development and teaching of the Full Stack Developer Bootcamp (HTML, CSS, JS, Node, React, Mongo and SQL).",
+  },
+  {
     company: "Matelab",
     designation: "Technical Leader",
     dateJoining: "11/2019 ",
-    dateEnd: " Present",
+    dateEnd: " 09/2021",
     work: "Software solutions Development with Python and PHP, architecture design and good practices implementation.",
   },
   {
