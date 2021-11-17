@@ -11,7 +11,7 @@ export const WorkData = [
     designation: "Technical Leader & Full Stack Mentor",
     dateJoining: "10/2021 ",
     dateEnd: " Present",
-    work: "Automation, development and teaching of the Full Stack Developer Bootcamp (HTML, CSS, JS, Node, React, Mongo and SQL).",
+    work: "Automation, development of internal solutions for the company and teaching the Full Stack Developer Bootcamp (HTML, CSS, JS, Node, React, Mongo and SQL).",
   },
   {
     company: "Guayerd",

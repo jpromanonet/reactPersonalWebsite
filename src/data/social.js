@@ -37,6 +37,6 @@ export const SocialData = [
   {
     platform: "Behance",
     icon: require("../assets/icons/behance.png").default,
-    link: "https://www.behance.net/jpromano",
+    link: "https://www.behance.net/jpromanonet",
   },
 ];
