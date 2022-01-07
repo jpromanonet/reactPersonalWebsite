@@ -8,17 +8,17 @@ export const WorkData = [
   },
   {
     company: "Nucba",
-    designation: "Technical Leader & Full Stack Mentor",
+    designation: "Full Stack Mentor",
     dateJoining: "10/2021 ",
     dateEnd: " Present",
-    work: "Automation, development of internal solutions for the company and teaching the Full Stack Developer Bootcamp (HTML, CSS, JS, Node, React, Mongo and SQL).",
+    work: "Teaching the Full Stack Developer Bootcamp (HTML, CSS, JS, Node, React, Mongo and SQL).",
   },
   {
     company: "Guayerd",
-    designation: "Front End Mentor",
+    designation: "Full Stack Mentor",
     dateJoining: "09/2021 ",
     dateEnd: " Present",
-    work: "Teaching Front End development with HTML, CSS, Javascript and React JS.",
+    work: "Teaching Front End development with HTML, CSS, Javascript and React JS and Back End development with NodeJS and Express.",
   },
   {
     company: "Matelab",
