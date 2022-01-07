@@ -2,7 +2,7 @@ export const WorkData = [
   {
     company: "The Bit",
     designation: "Technical Leader",
-    dateJoining: "10/2021 ",
+    dateJoining: "10/2019 ",
     dateEnd: " Present",
     work: "Project management and client relationship development, also I develop software solutions with PHP, React, VueJS, Mongo and Node using Scrum.",
   },
@@ -19,13 +19,6 @@ export const WorkData = [
     dateJoining: "09/2021 ",
     dateEnd: " Present",
     work: "Teaching Front End development with HTML, CSS, Javascript and React JS and Back End development with NodeJS and Express.",
-  },
-  {
-    company: "Matelab",
-    designation: "Technical Leader",
-    dateJoining: "11/2019 ",
-    dateEnd: " 09/2021",
-    work: "Software solutions Development with Python and PHP, architecture design and good practices implementation.",
   },
   {
     company: "Teclab Institute",
