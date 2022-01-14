@@ -6,7 +6,7 @@ export const ProjectData = [
       "This is a Netflix Clone, using Next JS, React, Firebase, etc",
     tags: ["ReactJs", "NodeJs", "Firebase", "Healthcare"],
     demo: "www.example.com",
-    github: "www.example.com",
+    github: "https://github.com/jpromanonet/netflixClone",
     image:
       "https://i.pinimg.com/originals/8e/6d/fe/8e6dfec5dd47bedf06ca7f74c77e4b14.png",
   },
