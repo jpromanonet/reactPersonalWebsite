@@ -24,7 +24,6 @@ export const ProjectData = [
       "ReactJs",
       "NodeJs",
       "Firebase",
-      "Healthcare",
     ],
     demo: "www.example.com",
     github: "www.example.com",
