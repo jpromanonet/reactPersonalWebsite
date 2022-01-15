@@ -15,7 +15,7 @@ export const ProjectData = [
     id: 1,
     title: "Instagram Clone",
     about:
-      "This is a random project I am using to illustrate in my video. This is channel overreacted and I hope you are enjoying this video. Make sure you like and comment if you have any doubt.",
+      "This is a Instagram clone using the MERN stack.",
     tags: [
       "ReactJs",
       "NodeJs",
