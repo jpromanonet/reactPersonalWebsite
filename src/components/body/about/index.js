@@ -9,7 +9,7 @@ function About() {
           Hello there 👋 and welcome!
           <br />
           <br />
-          I'm a Full Stack Developer, DevOps Engineer & Teacher.
+          I'm a Software Engineer, DevOps Engineer & Teacher.
         </div>
         <div className="about-photo">
           <img
