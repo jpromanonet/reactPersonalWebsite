@@ -10,9 +10,19 @@ export const ProjectData = [
     image:
       "https://i.pinimg.com/originals/8e/6d/fe/8e6dfec5dd47bedf06ca7f74c77e4b14.png",
   },
-
   {
-    id: 1,
+    id: 2,
+    title: "Pokemon Battle",
+    about:
+      "This is a Pokemon battle game made with Python.",
+    tags: ["ReactJs", "NodeJs", "MongoDB", "Netflix Clone"],
+    demo: "www.example.com",
+    github: "https://github.com/jpromanonet/netflixClone",
+    image:
+      "https://i.pinimg.com/originals/8e/6d/fe/8e6dfec5dd47bedf06ca7f74c77e4b14.png",
+  },
+  {
+    id: 3,
     title: "Instagram Clone",
     about:
       "This is a Instagram clone using the MERN stack.",
