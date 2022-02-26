@@ -17,7 +17,7 @@ export const ProjectData = [
       "This is a Pokemon battle game made with Python.",
     tags: ["Python", "Pygame"],
     demo: "www.example.com",
-    github: "https://github.com/jpromanonet/netflixClone",
+    github: "https://github.com/jpromanonet/pokemonBattlePy",
     image:
       "https://i.pinimg.com/originals/8e/6d/fe/8e6dfec5dd47bedf06ca7f74c77e4b14.png",
   },
