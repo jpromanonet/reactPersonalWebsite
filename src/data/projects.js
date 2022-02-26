@@ -15,7 +15,7 @@ export const ProjectData = [
     title: "Pokemon Battle",
     about:
       "This is a Pokemon battle game made with Python.",
-    tags: ["ReactJs", "NodeJs", "MongoDB", "Netflix Clone"],
+    tags: ["Python", "Pygame"],
     demo: "www.example.com",
     github: "https://github.com/jpromanonet/netflixClone",
     image:
