@@ -40,4 +40,22 @@ export const ProjectData = [
     github: "www.example.com",
     image: "https://p4.wallpaperbetter.com/wallpaper/948/460/1018/technology-instagram-social-media-hd-wallpaper-preview.jpg"
   },
+  {
+    id: 3,
+    title: "Amazon Clone (Amazona)",
+    about:
+      "This is a Amazon clone using the MERN stack.",
+    tags: [
+      "ReactJs",
+      "NodeJs",
+      "Firebase",
+      "NextJS",
+      "ReactJS",
+      "NodeJs",
+      "Firebase",
+    ],
+    demo: "www.example.com",
+    github: "www.example.com",
+    image: "https://p4.wallpaperbetter.com/wallpaper/948/460/1018/technology-instagram-social-media-hd-wallpaper-preview.jpg"
+  },
 ];
