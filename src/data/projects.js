@@ -32,7 +32,7 @@ export const ProjectData = [
       "Firebase",
       "Healthcare",
       "NextJS",
-      "ReactJs",
+      "ReactJS",
       "NodeJs",
       "Firebase",
     ],
