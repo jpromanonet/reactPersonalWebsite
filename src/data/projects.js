@@ -37,7 +37,6 @@ export const ProjectData = [
     ],
     demo: "www.example.com",
     github: "www.example.com",
-    image:
-      "https://cdn.dribbble.com/users/2657627/screenshots/13959270/media/b1a8b2b53760dc5c10e6cddc1409a3a1.png?compress=1&resize=400x300",
+    image: "https://p4.wallpaperbetter.com/wallpaper/948/460/1018/technology-instagram-social-media-hd-wallpaper-preview.jpg"
   },
 ];
