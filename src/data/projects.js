@@ -8,7 +8,7 @@ export const ProjectData = [
     demo: "www.example.com",
     github: "https://github.com/jpromanonet/netflixClone",
     image:
-      "https://i.pinimg.com/originals/8e/6d/fe/8e6dfec5dd47bedf06ca7f74c77e4b14.png",
+      "https://as01.epimg.net/meristation/imagenes/2021/12/18/betech/1639817723_888453_1639817851_noticia_normal_recorte1.jpg",
   },
   {
     id: 2,
@@ -30,14 +30,31 @@ export const ProjectData = [
       "ReactJs",
       "NodeJs",
       "Firebase",
-      "Healthcare",
-      "ReactJs",
+      "NextJS",
+      "ReactJS",
       "NodeJs",
       "Firebase",
     ],
     demo: "www.example.com",
     github: "www.example.com",
-    image:
-      "https://cdn.dribbble.com/users/2657627/screenshots/13959270/media/b1a8b2b53760dc5c10e6cddc1409a3a1.png?compress=1&resize=400x300",
+    image: "https://p4.wallpaperbetter.com/wallpaper/948/460/1018/technology-instagram-social-media-hd-wallpaper-preview.jpg"
+  },
+  {
+    id: 3,
+    title: "Amazon Clone (Amazona)",
+    about:
+      "This is a Amazon clone using the MERN stack.",
+    tags: [
+      "ReactJs",
+      "NodeJs",
+      "Firebase",
+      "NextJS",
+      "ReactJS",
+      "NodeJs",
+      "Firebase",
+    ],
+    demo: "www.example.com",
+    github: "www.example.com",
+    image: "https://p4.wallpaperbetter.com/wallpaper/948/460/1018/technology-instagram-social-media-hd-wallpaper-preview.jpg"
   },
 ];
