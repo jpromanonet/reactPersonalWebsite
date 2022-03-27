@@ -11,17 +11,6 @@ export const ProjectData = [
       "https://as01.epimg.net/meristation/imagenes/2021/12/18/betech/1639817723_888453_1639817851_noticia_normal_recorte1.jpg",
   },
   {
-    id: 2,
-    title: "Pokemon Battle",
-    about:
-      "This is a Pokemon battle game made with Python.",
-    tags: ["Python", "Pygame"],
-    demo: "www.example.com",
-    github: "https://github.com/jpromanonet/pokemonBattlePy",
-    image:
-      "https://i.pinimg.com/originals/8e/6d/fe/8e6dfec5dd47bedf06ca7f74c77e4b14.png",
-  },
-  {
     id: 3,
     title: "Instagram Clone",
     about:
