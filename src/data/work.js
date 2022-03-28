@@ -17,7 +17,7 @@ export const WorkData = [
     company: "Guayerd",
     designation: "Full Stack Mentor",
     dateJoining: "09/2021 ",
-    dateEnd: " Present",
+    dateEnd: " 03/2022",
     work: "Teaching Front End development with HTML, CSS, Javascript and React JS and Back End development with NodeJS and Express.",
   },
   {
