@@ -16,7 +16,7 @@ export const SocialData = [
   },
   {
     platform: "Twitter",
-    icon: require("../assets/icons/instagram.png").default,
+    icon: require("../assets/icons/twitter.png").default,
     link: "https://www.twitter.com/jpromanonet",
   },
   {
