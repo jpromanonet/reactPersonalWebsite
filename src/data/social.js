@@ -5,11 +5,6 @@ export const SocialData = [
     link: "https://www.goodreads.com/jpromano/",
   },
   {
-    platform: "Medium",
-    icon: require("../assets/icons/medium.png").default,
-    link: "https://thedeveloperchronicles.medium.com/",
-  },
-  {
     platform: "Instagram",
     icon: require("../assets/icons/instagram.png").default,
     link: "https://www.instagram.com/juanp.raven",
@@ -28,11 +23,6 @@ export const SocialData = [
     platform: "Linkedin",
     icon: require("../assets/icons/linkedin.png").default,
     link: "https://www.linkedin.com/in/jupromano/?locale=en_US",
-  },
-  {
-    platform: "YouTube",
-    icon: require("../assets/icons/youtube.png").default,
-    link: "https://www.youtube.com/channel/UCNizhFb4M6sT5UqOVOAUq1w",
   },
   {
     platform: "Linktree",
