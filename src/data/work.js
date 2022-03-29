@@ -7,6 +7,13 @@ export const WorkData = [
     work: "Project management and client relationship development, also I develop software solutions with PHP, React, VueJS, Mongo and Node using Scrum.",
   },
   {
+    company: "University of Lomas de Zamora",
+    designation: "Professor",
+    dateJoining: "03/2022 ",
+    dateEnd: " Present",
+    work: "Teaching the coursework for Computer Science 101 and Operative Systems.",
+  },
+  {
     company: "Nucba",
     designation: "Full Stack Mentor",
     dateJoining: "10/2021 ",
