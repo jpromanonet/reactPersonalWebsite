@@ -11,7 +11,7 @@ export const WorkData = [
     designation: "Professor",
     dateJoining: "03/2022 ",
     dateEnd: " Present",
-    work: "Teaching the coursework fore Computer Science 101 and Operative Systems.",
+    work: "Teaching the coursework for Computer Science 101 and Operative Systems.",
   },
   {
     company: "Nucba",
