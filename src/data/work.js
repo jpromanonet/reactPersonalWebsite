@@ -14,13 +14,6 @@ export const WorkData = [
     work: "Teaching the Full Stack Developer Bootcamp (HTML, CSS, JS, Node, React, Mongo and SQL).",
   },
   {
-    company: "Alkemy",
-    designation: "Full Stack Mentor",
-    dateJoining: "02/2022 ",
-    dateEnd: " Present",
-    work: "Teaching the Full Stack Developer Bootcamp (HTML, CSS, JS, Node, React, Mongo and SQL).",
-  },
-  {
     company: "Guayerd",
     designation: "Full Stack Mentor",
     dateJoining: "09/2021 ",
