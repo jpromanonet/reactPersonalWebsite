@@ -15,6 +15,11 @@ export const SocialData = [
     link: "https://www.instagram.com/juanp.raven",
   },
   {
+    platform: "Twitter",
+    icon: require("../assets/icons/instagram.png").default,
+    link: "https://www.twitter.com/jpromanonet",
+  },
+  {
     platform: "Github",
     icon: require("../assets/icons/github.png").default,
     link: "https://www.github.com/jpromanonet",
