@@ -21,4 +21,15 @@ export const ProjectData = [
     image:
       "https://as01.epimg.net/meristation/imagenes/2021/12/18/betech/1639817723_888453_1639817851_noticia_normal_recorte1.jpg",
   },
+  {
+    id: 1,
+    title: "Twitch chat app",
+    about:
+      "Twitch chat app clone",
+    tags: ["context", "React JS", "Node JS", "CRM React"],
+    demo: "www.example.com",
+    github: "https://github.com/jpromanonet/",
+    image:
+      "https://as01.epimg.net/meristation/imagenes/2021/12/18/betech/1639817723_888453_1639817851_noticia_normal_recorte1.jpg",
+  },
 ];
