@@ -89,7 +89,7 @@ export const ProjectData = [
   },
   {
     id: 1,
-    title: "React CRM",
+    title: "TikTok Clone",
     about:
       "A Costumer Relationship Manager made with React and Node JS",
     tags: ["context", "React JS", "Node JS", "CRM React"],
