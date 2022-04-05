@@ -77,7 +77,7 @@ export const ProjectData = [
       "https://as01.epimg.net/meristation/imagenes/2021/12/18/betech/1639817723_888453_1639817851_noticia_normal_recorte1.jpg",
   },
   {
-    id: 1,
+    id: 8,
     title: "Airbnb clone",
     about:
       "A Costumer Relationship Manager made with React and Node JS",
@@ -88,7 +88,7 @@ export const ProjectData = [
       "https://as01.epimg.net/meristation/imagenes/2021/12/18/betech/1639817723_888453_1639817851_noticia_normal_recorte1.jpg",
   },
   {
-    id: 1,
+    id: 9,
     title: "TikTok Clone",
     about:
       "A Costumer Relationship Manager made with React and Node JS",
