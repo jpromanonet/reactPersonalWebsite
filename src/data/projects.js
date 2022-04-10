@@ -114,7 +114,7 @@ export const ProjectData = [
     id: 11,
     title: "Travel Blog",
     about:
-      "TRAVEL BLOG with MAPS using NextJS, Sanity.io",
+      "Travel blog with MAPS using NextJS, Sanity.io",
     tags: ["context", "React JS", "Node JS", "CRM React"],
     demo: "www.example.com",
     github: "https://github.com/jpromanonet/",
