@@ -109,9 +109,19 @@ export const ProjectData = [
     image:
       "https://as01.epimg.net/meristation/imagenes/2021/12/18/betech/1639817723_888453_1639817851_noticia_normal_recorte1.jpg",
   },
-
   {
     id: 11,
+    title: "Travel Blog",
+    about:
+      "Travel blog with maps using NextJS and Sanity.io",
+    tags: ["React JS", "Node JS", "Next JS", "Sanity.io"],
+    demo: "www.example.com",
+    github: "https://github.com/jpromanonet/",
+    image:
+      "",
+  },
+  {
+    id: 12,
     title: "Travel Blog",
     about:
       "Travel blog with maps using NextJS and Sanity.io",
