@@ -119,6 +119,6 @@ export const ProjectData = [
     demo: "www.example.com",
     github: "https://github.com/jpromanonet/",
     image:
-      "https://as01.epimg.net/meristation/imagenes/2021/12/18/betech/1639817723_888453_1639817851_noticia_normal_recorte1.jpg",
+      "",
   },
 ];
