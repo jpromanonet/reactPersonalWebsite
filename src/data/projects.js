@@ -124,7 +124,7 @@ export const ProjectData = [
     id: 12,
     title: "Google Translator Clone",
     about:
-      "",
+      "Google translator clone with React JS, Node JS and RapidAPI",
     tags: ["React JS", "Node JS", "Next JS", "Sanity.io"],
     demo: "www.example.com",
     github: "https://github.com/jpromanonet/",
