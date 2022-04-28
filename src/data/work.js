@@ -4,7 +4,7 @@ export const WorkData = [
     designation: "Project Coordinator",
     dateJoining: "04/2022 ",
     dateEnd: " Present",
-    work: "",
+    work: "Project coordination and development with .Net Core, Angular JS and Vue JS with Azure DevOps using Scrum",
   },
   {
     company: "The Bit",

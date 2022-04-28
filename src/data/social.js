@@ -1,10 +1,5 @@
 export const SocialData = [
   {
-    platform: "Goodreads",
-    icon: require("../assets/icons/goodreads.png").default,
-    link: "https://www.goodreads.com/jpromano/",
-  },
-  {
     platform: "Instagram",
     icon: require("../assets/icons/instagram.png").default,
     link: "https://www.instagram.com/juanp.raven",

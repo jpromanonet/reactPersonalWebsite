@@ -19,6 +19,11 @@ function Web() {
         </a>
   </div>*/}
       <div className="web-option">
+        <a href="https://oursuperadventures.com" target="_blank">
+          <i class="fi-rr-plane option-icon"></i>Travels
+        </a>
+      </div>
+      <div className="web-option">
         <a href="https://thedevchronicles.com/" target="_blank">
           <i class="fi-rr-book option-icon"></i>Blog
         </a>
