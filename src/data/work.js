@@ -4,7 +4,7 @@ export const WorkData = [
     designation: "Project Coordinator",
     dateJoining: "04/2022 ",
     dateEnd: " Present",
-    work: "Project management and client relationship development, also I develop software solutions with PHP, React, VueJS, Mongo and Node using Scrum.",
+    work: "",
   },
   {
     company: "The Bit",
