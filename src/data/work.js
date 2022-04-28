@@ -2,7 +2,7 @@ export const WorkData = [
   {
     company: "Binit",
     designation: "Project Coordinator",
-    dateJoining: "10/2019 ",
+    dateJoining: "04/2022 ",
     dateEnd: " Present",
     work: "Project management and client relationship development, also I develop software solutions with PHP, React, VueJS, Mongo and Node using Scrum.",
   },
@@ -24,7 +24,7 @@ export const WorkData = [
     company: "Nucba",
     designation: "Full Stack Mentor",
     dateJoining: "10/2021 ",
-    dateEnd: " Present",
+    dateEnd: " 04/2022",
     work: "Teaching the Full Stack Developer Bootcamp (HTML, CSS, JS, Node, React, Mongo and SQL).",
   },
   {
