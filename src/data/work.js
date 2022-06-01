@@ -4,11 +4,11 @@ export const WorkData = [
     designation: "Chief Technology Officer",
     dateJoining: "05/2022 ",
     dateEnd: " Present",
-    work: "Coordinate and monitor the implementation of the different projects in the company.",
+    work: "Ceoordinate and monitor the implementation of the different projects in the company.",
   },
   {
     company: "Binit",
-    designation: "Project Coordinator",
+    designation: "Project Manager",
     dateJoining: "04/2022 ",
     dateEnd: " Present",
     work: "Project coordination and development with .Net Core, Angular JS and Vue JS with Azure DevOps using Scrum",
