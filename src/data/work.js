@@ -1,12 +1,5 @@
 export const WorkData = [
   {
-    company: "Token Sport",
-    designation: "Chief Technology Officer",
-    dateJoining: "01/2022 ",
-    dateEnd: " 07/2022",
-    work: "Ceoordinate and monitor the implementation of the different projects in the company.",
-  },
-  {
     company: "Binit",
     designation: "Project Manager",
     dateJoining: "04/2022 ",
@@ -19,6 +12,13 @@ export const WorkData = [
     dateJoining: "10/2019 ",
     dateEnd: " Present",
     work: "Project management and client relationship development, also I develop software solutions with PHP, React, VueJS, Mongo and Node using Scrum.",
+  },
+  {
+    company: "Token Sport",
+    designation: "Chief Technology Officer",
+    dateJoining: "01/2022 ",
+    dateEnd: " 07/2022",
+    work: "Ceoordinate and monitor the implementation of the different projects in the company.",
   },
   {
     company: "University of Lomas de Zamora",
