@@ -21,20 +21,6 @@ export const WorkData = [
     work: "Project management and client relationship development, also I develop software solutions with PHP, React, VueJS, Mongo and Node using Scrum.",
   },
   {
-    company: "Coderhouse",
-    designation: "Professor",
-    dateJoining: "07/2022 ",
-    dateEnd: " Present",
-    work: "Teaching the coursework for 'Backend development with Node.js'",
-  },
-  {
-    company: "Educación IT",
-    designation: "Professor",
-    dateJoining: "07/2022 ",
-    dateEnd: " Present",
-    work: "Teaching the coursework for 'Python for not developer'",
-  },
-  {
     company: "University of Lomas de Zamora",
     designation: "Professor",
     dateJoining: "03/2022 ",
