@@ -2,8 +2,8 @@ export const WorkData = [
   {
     company: "Token Sport",
     designation: "Chief Technology Officer",
-    dateJoining: "05/2022 ",
-    dateEnd: " Present",
+    dateJoining: "01/2022 ",
+    dateEnd: " 07/2022",
     work: "Ceoordinate and monitor the implementation of the different projects in the company.",
   },
   {
