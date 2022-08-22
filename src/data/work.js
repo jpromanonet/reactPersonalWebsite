@@ -1,5 +1,12 @@
 export const WorkData = [
   {
+    company: "Andreani",
+    designation: "Chief of IT Development",
+    dateJoining: "07/2022 ",
+    dateEnd: " Present",
+    work: "Coordination of multi project software development teams using Agile, my job is to solve internal software needs and external software logistical needs for clients also I propose the new software solutions for the company and build them from scratch with interdisciplinary teams.",
+  },
+  {
     company: "Binit",
     designation: "Project Manager",
     dateJoining: "04/2022 ",
