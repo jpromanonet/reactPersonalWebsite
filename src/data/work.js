@@ -4,7 +4,7 @@ export const WorkData = [
     designation: "Chief of IT Development",
     dateJoining: "07/2022 ",
     dateEnd: " Present",
-    work: "Coordination of multi project software development teams using Agile, my job is to solve internal software needs and external software logistical needs for clients also I propose the new software solutions for the company and build them from scratch with interdisciplinary teams.",
+    work: "Coordinate and monitor the implementation of the different projects in the company.",
   },
   {
     company: "Binit",
@@ -25,7 +25,7 @@ export const WorkData = [
     designation: "Chief Technology Officer",
     dateJoining: "01/2022 ",
     dateEnd: " 07/2022",
-    work: "Ceoordinate and monitor the implementation of the different projects in the company.",
+    work: "Coordinate and monitor the implementation of the different projects in the company.",
   },
   {
     company: "University of Lomas de Zamora",
