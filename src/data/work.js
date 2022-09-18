@@ -18,7 +18,7 @@ export const WorkData = [
     designation: "CEO",
     dateJoining: "10/2019 ",
     dateEnd: " Present",
-    work: "Project management and client relationship development.",
+    work: "Executive management and client relationship development.",
   },
   {
     company: "Token Sport",
