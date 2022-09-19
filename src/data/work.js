@@ -4,7 +4,7 @@ export const WorkData = [
     designation: "Chief of Software Development",
     dateJoining: "07/2022 ",
     dateEnd: " Present",
-    work: "Coordinate and monitor the implementation of the different projects in the company.",
+    work: "Coordination and management the implementation of the different projects in the company.",
   },
   {
     company: "Binit",
