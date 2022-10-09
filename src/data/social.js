@@ -17,7 +17,7 @@ export const SocialData = [
   {
     platform: "Linkedin",
     icon: require("../assets/icons/linkedin.png").default,
-    link: "https://www.linkedin.com/in/jupromano/?locale=en_US",
+    link: "https://www.linkedin.com/in/jpromanonet/?locale=en_US",
   },
   {
     platform: "Linktree",
