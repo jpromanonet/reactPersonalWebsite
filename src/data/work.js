@@ -5,7 +5,8 @@ export const WorkData = [
     dateJoining: "10/2022 ",
     dateEnd: " Present",
     work: "",
-  }, {
+  },
+  {
     company: "The Bit",
     designation: "CEO",
     dateJoining: "10/2019 ",
