@@ -63,6 +63,13 @@ export const WorkData = [
     work: "Infrastructure as code with Python, Ansible, Puppet and Chef in Azure, deploy and implementation of CI/CD with Gitops as paradigm over Azure for clients like EY, design and development of Docker containers and Kubernetes.",
   },
   {
+    company: "The 8 Agency",
+    designation: "Technical Lead",
+    dateJoining: "04/2020 ",
+    dateEnd: " 09/2020",
+    work: "Coordinate and monitor the implementation of the different projects in the company while facing clients.",
+  },
+  {
     company: "El Cronista Comercial",
     designation: "Full Stack Developer",
     dateJoining: "09/2018 ",
