@@ -5,6 +5,12 @@ export const WorkData = [
     dateJoining: "10/2022 ",
     dateEnd: " Present",
     work: "",
+  }, {
+    company: "The Bit",
+    designation: "CEO",
+    dateJoining: "10/2019 ",
+    dateEnd: " Present",
+    work: "Executive management and client relationship development.",
   },
   {
     company: "Andreani",
@@ -13,13 +19,7 @@ export const WorkData = [
     dateEnd: " 10/2022",
     work: "Coordination and management the implementation of the different projects in the company.",
   },
-  {
-    company: "The Bit",
-    designation: "CEO",
-    dateJoining: "10/2019 ",
-    dateEnd: " Present",
-    work: "Executive management and client relationship development.",
-  },
+
   {
     company: "Binit",
     designation: "Project Manager",
