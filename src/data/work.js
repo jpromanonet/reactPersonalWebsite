@@ -67,7 +67,7 @@ export const WorkData = [
     designation: "Technical Lead",
     dateJoining: "04/2020 ",
     dateEnd: " 09/2020",
-    work: "Coordinate and monitor the implementation of the different projects in the company while facing clients.",
+    work: "Coordinate and monitor the implementation of the different projects in the company while facing clients and coordinating with them to solve their digital marketing problems.",
   },
   {
     company: "El Cronista Comercial",
