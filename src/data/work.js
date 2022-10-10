@@ -3,7 +3,7 @@ export const WorkData = [
     company: "Andreani",
     designation: "Chief of Software Development",
     dateJoining: "07/2022 ",
-    dateEnd: " Present",
+    dateEnd: " 10/2022",
     work: "Coordination and management the implementation of the different projects in the company.",
   },
   {
