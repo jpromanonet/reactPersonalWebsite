@@ -20,7 +20,6 @@ export const WorkData = [
     dateEnd: " 10/2022",
     work: "Coordination and management the implementation of the different projects in the company.",
   },
-
   {
     company: "Binit",
     designation: "Project Manager",
