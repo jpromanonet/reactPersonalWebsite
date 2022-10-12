@@ -4,7 +4,7 @@ export const WorkData = [
     designation: "Senior Software Engineer",
     dateJoining: "10/2022 ",
     dateEnd: " Present",
-    work: "",
+    work: "Software development with C#, .Net 6, MS-SQL, Node JS, React JS and Razor",
   },
   {
     company: "The Bit",
