@@ -1,7 +1,7 @@
 export const WorkData = [
   {
     company: "Binit",
-    designation: "Senior Software Engineer",
+    designation: "Software Engineer",
     dateJoining: "10/2022 ",
     dateEnd: " Present",
     work: "Software development with C#, .Net 6, MS-SQL, Node JS, React JS and Razor",
