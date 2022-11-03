@@ -9,7 +9,7 @@ function About() {
           Hello there 👋 and welcome!
           <br />
           <br />
-          I'm a Software Engineer, Mathematician & Teacher.
+          I'm a Software Engineer, DevOps Engineer & Teacher.
         </div>
         <div className="about-photo">
           <img
