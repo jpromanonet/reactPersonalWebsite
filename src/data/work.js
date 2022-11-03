@@ -1,14 +1,14 @@
 export const WorkData = [
   {
     company: "Binit",
-    designation: "Software Engineer",
-    dateJoining: "10/2022 ",
+    designation: "Software Engineer & Project Manager",
+    dateJoining: "04/2022 ",
     dateEnd: " Present",
-    work: "Software development using C#, .Net 6, MS-SQL, Node JS, React JS and Razor",
+    work: "Project coordination and development with .Net Core, Angular JS and Vue JS with Azure DevOps using Scrum. Software development using C#, .Net 6, MS-SQL, Node JS, React JS and Razor",
   },
   {
     company: "The Bit",
-    designation: "CEO",
+    designation: "Project Manager",
     dateJoining: "10/2019 ",
     dateEnd: " Present",
     work: "Executive management and client relationship development.",
@@ -19,13 +19,6 @@ export const WorkData = [
     dateJoining: "07/2022 ",
     dateEnd: " 10/2022",
     work: "Coordination and management the implementation of the different projects in the company.",
-  },
-  {
-    company: "Binit",
-    designation: "Project Manager",
-    dateJoining: "04/2022 ",
-    dateEnd: " 10/2022",
-    work: "Project coordination and development with .Net Core, Angular JS and Vue JS with Azure DevOps using Scrum",
   },
   {
     company: "Token Sport",
