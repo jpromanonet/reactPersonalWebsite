@@ -31,7 +31,7 @@ export const WorkData = [
     company: "El Cronista Comercial",
     designation: "Full Stack Developer",
     dateJoining: "09/2017 ",
-    dateEnd: " 09/2020",
+    dateEnd: " 04/2020",
     work: "Linux servers implementation and ITIL servicies, SQL development of store procedures and report, financial systems analytics, automation of business workflows, test and software development for the company",
   },
   {
