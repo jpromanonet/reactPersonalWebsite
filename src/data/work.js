@@ -34,14 +34,6 @@ export const WorkData = [
     dateEnd: " 08/2022",
     work: "Teaching the coursework for Computer Science 101 and Operative Systems.",
   },
-  
-  {
-    company: "Guayerd",
-    designation: "Full Stack Mentor",
-    dateJoining: "09/2021 ",
-    dateEnd: " 03/2022",
-    work: "Teaching Front End development with HTML, CSS, Javascript and React JS and Back End development with NodeJS and Express.",
-  },
   {
     company: "Teclab Institute",
     designation: "Expert Tutor",
