@@ -42,13 +42,6 @@ export const WorkData = [
     work: "Linux servers implementation and ITIL servicies, SQL development of store procedures and report, financial systems analytics, automation of business workflows, test and software development for the company",
   },
   {
-    company: "Healthy SA",
-    designation: "Full Stack Developer",
-    dateJoining: "09/2017 ",
-    dateEnd: " 09/2018",
-    work: "IT support level 2 and sometimes 3, internal software development and virtualization platforms administration like VMWare and ProxMox, linux servers, etc.",
-  },
-  {
     company: "Accusys Technology",
     designation: "Full Stack Developer",
     dateJoining: "11/2015 ",
