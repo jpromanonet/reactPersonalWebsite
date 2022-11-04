@@ -34,13 +34,7 @@ export const WorkData = [
     dateEnd: " 08/2022",
     work: "Teaching the coursework for Computer Science 101 and Operative Systems.",
   },
-  {
-    company: "Nucba",
-    designation: "Full Stack Mentor",
-    dateJoining: "10/2021 ",
-    dateEnd: " 04/2022",
-    work: "Teaching the Full Stack Developer Bootcamp (HTML, CSS, JS, Node, React, Mongo and SQL).",
-  },
+  
   {
     company: "Guayerd",
     designation: "Full Stack Mentor",
