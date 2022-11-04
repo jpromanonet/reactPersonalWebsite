@@ -21,13 +21,6 @@ export const WorkData = [
     work: "Coordination and management the implementation of the different projects in the company.",
   },
   {
-    company: "Token Sport",
-    designation: "Chief Technology Officer",
-    dateJoining: "01/2022 ",
-    dateEnd: " 07/2022",
-    work: "Coordinate and monitor the implementation of the different projects in the company.",
-  },
-  {
     company: "University of Lomas de Zamora",
     designation: "Professor",
     dateJoining: "03/2022 ",
