@@ -16,8 +16,8 @@ export const WorkData = [
   {
     company: "University of Lomas de Zamora",
     designation: "Professor",
-    dateJoining: "03/2022 ",
-    dateEnd: " 08/2022",
+    dateJoining: "02/2022 ",
+    dateEnd: " 07/2022",
     work: "Teaching the coursework for Computer Science 101 and Operative Systems.",
   },
   {
