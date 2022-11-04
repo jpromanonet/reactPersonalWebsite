@@ -7,13 +7,6 @@ export const WorkData = [
     work: "Project coordination and development with .Net Core, Angular JS and Vue JS with Azure DevOps using Scrum. Software development using C#, .Net 6, MS-SQL, Node JS, React JS and Razor",
   },
   {
-    company: "The Bit",
-    designation: "CTO",
-    dateJoining: "10/2019 ",
-    dateEnd: " Present",
-    work: "Executive management and client relationship development.",
-  },
-  {
     company: "Andreani Grupo Logistico",
     designation: "Chief of Software Development",
     dateJoining: "07/2022 ",
@@ -26,6 +19,13 @@ export const WorkData = [
     dateJoining: "03/2022 ",
     dateEnd: " 08/2022",
     work: "Teaching the coursework for Computer Science 101 and Operative Systems.",
+  },
+  {
+    company: "The Bit",
+    designation: "CTO",
+    dateJoining: "04/2020 ",
+    dateEnd: " 04/2022",
+    work: "Executive management and client relationship development.",
   },
   {
     company: "El Cronista Comercial",
