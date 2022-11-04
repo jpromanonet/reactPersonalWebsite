@@ -35,13 +35,6 @@ export const WorkData = [
     work: "Teaching the coursework for Computer Science 101 and Operative Systems.",
   },
   {
-    company: "Globant",
-    designation: "DevOps Engineer",
-    dateJoining: "09/2020 ",
-    dateEnd: " 04/2021",
-    work: "Infrastructure as code with Python, Ansible, Puppet and Chef in Azure, deploy and implementation of CI/CD with Gitops as paradigm over Azure for clients like EY, design and development of Docker containers and Kubernetes.",
-  },
-  {
     company: "The 8 Agency",
     designation: "Technical Lead",
     dateJoining: "04/2020 ",
