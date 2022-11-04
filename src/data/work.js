@@ -8,7 +8,7 @@ export const WorkData = [
   },
   {
     company: "The Bit",
-    designation: "Project Manager",
+    designation: "CTO",
     dateJoining: "10/2019 ",
     dateEnd: " Present",
     work: "Executive management and client relationship development.",
