@@ -18,11 +18,11 @@ function Mobile({ isOpen, setIsOpen }) {
             <i class="fi-rr-briefcase option-icon"></i>Work
           </a>
         </div>
-        {/*<div className="mobile-option">
-          <a href="#projects">
+        <div className="mobile-option">
+          <a href="https://jpromano.net/projects">
             <i class="fi-rr-pencil option-icon"></i>Projects
           </a>
-        </div>*/}
+        </div>
         <div className="mobile-option">
         <a href="https://oursuperadventures.com" target="_blank">
           <i class="fi-rr-plane option-icon"></i>Travels
