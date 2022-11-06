@@ -14,7 +14,7 @@ function Web() {
         </a>
       </div>
       <div className="web-option">
-        <a href="https://jpromano.net/projects">
+        <a href="https://jpromano.net/projects" target="_blank">
           <i class="fi-rr-pencil option-icon"></i>Projects
         </a>
       </div>
