@@ -7,13 +7,6 @@ export const WorkData = [
     work: "Project coordination and development with .Net Core, Angular JS and Vue JS with Azure DevOps using Scrum. Software development using C#, .Net 6, MS-SQL, Node JS, React JS and Razor",
   },
   {
-    company: "Andreani Grupo Logistico",
-    designation: "Chief of Software Development",
-    dateJoining: "07/2022 ",
-    dateEnd: " 10/2022",
-    work: "Coordination and management the implementation of the different projects in the company.",
-  },
-  {
     company: "University of Lomas de Zamora",
     designation: "Professor",
     dateJoining: "02/2022 ",
