@@ -1,7 +1,7 @@
 export const WorkData = [
   {
-    company: "Binit",
-    designation: "Project Manager",
+    company: "Grupo Logistico Andreani",
+    designation: "Director of Software Development",
     dateJoining: "04/2022 ",
     dateEnd: " Present",
     work: "Project coordination and development with .Net Core, Angular JS and Vue JS with Azure DevOps using Scrum. Software development using C#, .Net 6, MS-SQL, Node JS, React JS and Razor",
