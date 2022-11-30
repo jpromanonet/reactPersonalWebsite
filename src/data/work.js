@@ -18,8 +18,8 @@ export const WorkData = [
     company: "Token Sport",
     designation: "CTO",
     dateJoining: "01/2021 ",
-    dateEnd: " 01/2022",
-    work: "Executive management and client relationship development.",
+    dateEnd: " 04/2022",
+    work: "I coordinate and monitor the implementation of the different projects in the company.",
   },
   {
     company: "The Bit",
