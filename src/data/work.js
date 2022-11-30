@@ -4,7 +4,7 @@ export const WorkData = [
     designation: "Director of Software Development",
     dateJoining: "04/2022 ",
     dateEnd: " 11/2022",
-    work: "Project coordination and development with .Net Core, Angular JS and Vue JS with Azure DevOps using Scrum. Software development using C#, .Net 6, MS-SQL, Node JS, React JS and Razor",
+    work: "Executive management and client relationship development, creation of the software factory deparment and scaling of different projects withnin the company solving probles about logistics queues. I was in charge of the developers and architechs in the company (almost 200 people) and worked in tandem with C-Level stakeholders to bring innovation to the company.",
   },
   {
     company: "University of Lomas de Zamora",
