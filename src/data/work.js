@@ -4,7 +4,7 @@ export const WorkData = [
     designation: "Director of Software Development",
     dateJoining: "04/2022 ",
     dateEnd: " 11/2022",
-    work: "Executive management and client relationship development, creation of the software factory deparment and scaling of different projects withnin the company solving probles about logistics queues. I was in charge of the developers and architechs in the company (almost 200 people) and worked in tandem with C-Level stakeholders to bring innovation to the company.",
+    work: "I was in charge of the developers and architechs in the company (almost 200 people) and worked in tandem with C-Level stakeholders to bring innovation to the company.",
   },
   {
     company: "University of Lomas de Zamora",
@@ -12,6 +12,14 @@ export const WorkData = [
     dateJoining: "02/2022 ",
     dateEnd: " 07/2022",
     work: "Teaching the coursework for Computer Science 101 and Operative Systems.",
+  },
+
+  {
+    company: "Token Sport",
+    designation: "CTO",
+    dateJoining: "01/2021 ",
+    dateEnd: " 01/2022",
+    work: "Executive management and client relationship development.",
   },
   {
     company: "The Bit",
