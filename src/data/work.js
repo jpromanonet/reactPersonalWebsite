@@ -19,7 +19,7 @@ export const WorkData = [
     designation: "CTO",
     dateJoining: "01/2021 ",
     dateEnd: " 04/2022",
-    work: "I coordinate and monitor the implementation of the different projects in the company.",
+    work: "I coordinate and monitor the implementation of the different projects in the company on web3 with Solidity.",
   },
   {
     company: "The Bit",
