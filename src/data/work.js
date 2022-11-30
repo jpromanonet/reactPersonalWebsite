@@ -3,7 +3,7 @@ export const WorkData = [
     company: "Grupo Logistico Andreani",
     designation: "Director of Software Development",
     dateJoining: "04/2022 ",
-    dateEnd: " 11/2022",
+    dateEnd: " Present",
     work: "I was in charge of the developers and architechs in the company (almost 200 people) and worked in tandem with C-Level stakeholders to bring innovation to the company.",
   },
   {
@@ -11,6 +11,13 @@ export const WorkData = [
     designation: "Professor",
     dateJoining: "02/2022 ",
     dateEnd: " 07/2022",
+    work: "Teaching the coursework for Computer Science 101 and Operative Systems.",
+  },
+  {
+    company: "Coderhouse",
+    designation: "Professor",
+    dateJoining: "03/2022 ",
+    dateEnd: " Present",
     work: "Teaching the coursework for Computer Science 101 and Operative Systems.",
   },
 
