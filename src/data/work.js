@@ -14,6 +14,13 @@ export const WorkData = [
     work: "Teaching the coursework for Computer Science 101 and Operative Systems.",
   },
   {
+    company: "Educación IT",
+    designation: "Professor",
+    dateJoining: "05/2022 ",
+    dateEnd: " 07/2022",
+    work: "Teaching the coursework for 'Python for non-developers.",
+  },
+  {
     company: "University of Lomas de Zamora",
     designation: "Professor",
     dateJoining: "02/2022 ",
