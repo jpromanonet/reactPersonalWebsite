@@ -30,9 +30,9 @@ export const WorkData = [
   {
     company: "Teclab Institute",
     designation: "Professor",
-    dateJoining: "03/2022 ",
-    dateEnd: " Present",
-    work: "Teaching the coursework for Computer Science 101 and Operative Systems.",
+    dateJoining: "03/2021 ",
+    dateEnd: " 05/2022",
+    work: "Teaching the coursework for Mobile Android Development and Web Development with Java.",
   },
   {
     company: "Token Sport",
