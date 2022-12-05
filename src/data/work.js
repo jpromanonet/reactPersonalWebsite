@@ -14,6 +14,20 @@ export const WorkData = [
     work: "Teaching the coursework for the 'Back End Development Bootcamp.",
   },
   {
+    company: "Token Sport",
+    designation: "CTO",
+    dateJoining: "01/2021 ",
+    dateEnd: " 04/2022",
+    work: "Coordination and implementation of the different projects in the company on web3 with Solidity.",
+  },
+  {
+    company: "The Bit",
+    designation: "CTO",
+    dateJoining: "04/2020 ",
+    dateEnd: " 04/2022",
+    work: "Executive management and client relationship development.",
+  },
+  {
     company: "Educación IT",
     designation: "Professor",
     dateJoining: "05/2022 ",
@@ -33,20 +47,6 @@ export const WorkData = [
     dateJoining: "03/2021 ",
     dateEnd: " 05/2022",
     work: "Teaching the coursework for Mobile Android Development and Web Development with Java.",
-  },
-  {
-    company: "Token Sport",
-    designation: "CTO",
-    dateJoining: "01/2021 ",
-    dateEnd: " 04/2022",
-    work: "Coordination and implementation of the different projects in the company on web3 with Solidity.",
-  },
-  {
-    company: "The Bit",
-    designation: "CTO",
-    dateJoining: "04/2020 ",
-    dateEnd: " 04/2022",
-    work: "Executive management and client relationship development.",
   },
   {
     company: "El Cronista Comercial",
