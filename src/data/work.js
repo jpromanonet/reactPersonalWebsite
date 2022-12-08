@@ -35,18 +35,18 @@ export const WorkData = [
     work: "Teaching the coursework for Computer Science 101 and Operative Systems.",
   },
   {
-    company: "University of Lomas de Zamora",
-    designation: "Professor",
+    company: "Nucba",
+    designation: "Full Stack Mentor",
     dateJoining: "02/2022 ",
     dateEnd: " 07/2022",
-    work: "Teaching the coursework for Computer Science 101 and Operative Systems.",
+    work: "Teaching the coursework for the Full Stack Development bootcamp.",
   },
   {
-    company: "University of Lomas de Zamora",
+    company: "Guayerd",
     designation: "Professor",
     dateJoining: "02/2022 ",
     dateEnd: " 07/2022",
-    work: "Teaching the coursework for Computer Science 101 and Operative Systems.",
+    work: "Teaching the coursework for .",
   },
   {
     company: "El Cronista Comercial",
