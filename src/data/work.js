@@ -35,6 +35,20 @@ export const WorkData = [
     work: "Teaching the coursework for Computer Science 101 and Operative Systems.",
   },
   {
+    company: "University of Lomas de Zamora",
+    designation: "Professor",
+    dateJoining: "02/2022 ",
+    dateEnd: " 07/2022",
+    work: "Teaching the coursework for Computer Science 101 and Operative Systems.",
+  },
+  {
+    company: "University of Lomas de Zamora",
+    designation: "Professor",
+    dateJoining: "02/2022 ",
+    dateEnd: " 07/2022",
+    work: "Teaching the coursework for Computer Science 101 and Operative Systems.",
+  },
+  {
     company: "El Cronista Comercial",
     designation: "Full Stack Developer",
     dateJoining: "09/2017 ",
