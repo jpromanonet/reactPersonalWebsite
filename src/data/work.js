@@ -39,14 +39,14 @@ export const WorkData = [
     designation: "Full Stack Mentor",
     dateJoining: "02/2022 ",
     dateEnd: " 07/2022",
-    work: "Teaching the coursework for the Full Stack Development bootcamp.",
+    work: "Teaching the coursework for the Full Stack Development Bootcamp.",
   },
   {
     company: "Guayerd",
     designation: "Professor",
     dateJoining: "02/2022 ",
     dateEnd: " 07/2022",
-    work: "Teaching the coursework for .",
+    work: "Teaching the coursework for the Full Stack Development Bootcamp.",
   },
   {
     company: "El Cronista Comercial",
