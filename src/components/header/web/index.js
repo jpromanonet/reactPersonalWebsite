@@ -24,7 +24,7 @@ function Web() {
         </a>
       </div>
       <div className="web-option">
-        <a href="https://jpromano.net/blog" target="_blank">
+        <a href="https://divulgadoresporhobby.com" target="_blank">
           <i class="fi-rr-book option-icon"></i>Blog
         </a>
       </div>
