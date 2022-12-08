@@ -35,13 +35,6 @@ export const WorkData = [
     work: "Teaching the coursework for Computer Science 101 and Operative Systems.",
   },
   {
-    company: "Teclab Institute",
-    designation: "Professor",
-    dateJoining: "03/2021 ",
-    dateEnd: " 05/2022",
-    work: "Teaching the coursework for Mobile Android Development and Web Development with Java.",
-  },
-  {
     company: "El Cronista Comercial",
     designation: "Full Stack Developer",
     dateJoining: "09/2017 ",
