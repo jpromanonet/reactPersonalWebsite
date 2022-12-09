@@ -64,7 +64,7 @@ export const WorkData = [
   },
   {
     company: "Aniceto Gómez S.A",
-    designation: "Full Stack Developer",
+    designation: "Software Engineer",
     dateJoining: "11/2012 ",
     dateEnd: " 12/2015",
     work: "Development of an ERP and the company Intranet, using PHP, ASP, MySQL, MS-SQL, as well as a MRP with NodeJS taking data from PLC's controller using assembler and dumping them into MS-SQL entries.",
