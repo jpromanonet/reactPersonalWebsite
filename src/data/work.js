@@ -57,7 +57,7 @@ export const WorkData = [
   },
   {
     company: "Accusys Technology",
-    designation: "Full Stack Developer",
+    designation: "Software Engineer",
     dateJoining: "11/2015 ",
     dateEnd: " 09/2017",
     work: "IT support level 2 and sometimes 3, internal software development and virtualization platforms administration like VMWare and ProxMox, linux servers, etc.",
